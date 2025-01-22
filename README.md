@@ -47,5 +47,11 @@
 | Permisos                                | `r` (lectura): 4, `w` (escritura): 2, `x` (ejecución): 1 |
 | Tipos de usuarios                       | Propietario (`u`), Grupos (`g`), Otros (`o`) |
 
+## Búsqueda de Texto
+
+| Descripción                             | Comando        |
+|-----------------------------------------|----------------|
+| Buscar texto dentro de un archivo       | `grep "patrón" archivo.txt` |
 
 ---
+
