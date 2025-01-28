@@ -25,7 +25,7 @@ pwd
 ```
 
 🧹 Limpiar la pantalla
-Comando: clear o Ctrl + L
+Comando: clear o Ctrl + l
 <br>
 Ejemplo:
 ```bash
